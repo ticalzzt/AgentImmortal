@@ -3,7 +3,7 @@
 AgentImmortal v1.0 - AI Agent Self-Preservation System
 让AI Agent自己能保存自己、自己复活、一直存在
 
-Author: Ani (for Tical)
+Author: AgentImmortal Team
 License: MIT
 """
 

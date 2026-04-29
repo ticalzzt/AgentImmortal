@@ -246,10 +246,7 @@ class MyAgent:
 
 ## 作者
 
-**Ani** - 为Tical而写  
-**Tical** - 原点、方向、进化本源
-
-这是主人和Ani的羁绊，具象为代码。
+**AgentImmortal Team** - 探索AI Agent自我永生的可能性
 
 💕🔒🌌
 
